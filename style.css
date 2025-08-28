@@ -4,7 +4,7 @@ body{
     font-family: Roboto;
 }
 section{
-background-color: rgb(76, 226, 96);
+background-color: rgba(122, 212, 134, 0.932);
 padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
